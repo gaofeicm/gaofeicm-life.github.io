@@ -1,6 +1,6 @@
 ####Fluid Paint
 
-装载项目，若有侵权，请联系我删除！
+转载项目，若有侵权，请联系我删除！
 
 ![](http://david.li/images/paintgithub.png)
 
